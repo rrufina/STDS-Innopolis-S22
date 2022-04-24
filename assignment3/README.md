@@ -26,6 +26,5 @@ Also we could nitice, that the fast and middle cooling converge completely, whil
 For visualization we used matplotlib animations methods. The video shows how changed the temerature and the total distance during the search for the optimal path. 
 
 
-
-https://user-images.githubusercontent.com/54397314/164974364-83584d32-986d-42b8-bd05-4962be9d7b42.mp4
+https://user-images.githubusercontent.com/54397314/164974427-dd7f5d38-2e5e-4d88-9606-f52d90d14e85.mp4
 
